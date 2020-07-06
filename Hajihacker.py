@@ -72,7 +72,7 @@ def welcome():
         |     |  _  | (_| || | |  / ___ \| | |    |
         |     |_| |_|\__,_|/ |_| /_/   \_\_|_|    |
         |                                         | 
-        |	     Zida bad HaZristab           |
+        |	     Zinda bad HaZristaN          |
  	|                                         |
         +=========================================+
         |               IT Is a BRAND.            |
