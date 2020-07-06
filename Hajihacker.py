@@ -71,9 +71,16 @@ def welcome():
         |     | |_| |/ _` || | |   / _ \ | | |    |
         |     |  _  | (_| || | |  / ___ \| | |    |
         |     |_| |_|\__,_|/ |_| /_/   \_\_|_|    |
-        |                                         | 
+        |                                         |
+        +=========================================+                
         |	     Zinda bad HaZristaN          |
- 	|                                         |
+        +=========================================+       
+ 	|   Facebook: Haji Ali                    |  
+        |   Telegram:t.me/haji_ali_back           |
+        |   Telegram:t.me/cybertim1               |
+        |   github:https://github.com/hajiali_boy |
+        |   instagram;hajiali                     |
+        |         Fallow me on Facebook           |
         +=========================================+
         |               IT Is a BRAND.            |
         +-----------------------------------------+\n\n
